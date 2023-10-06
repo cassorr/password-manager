@@ -7,5 +7,3 @@ and then is used as the key to have access to all passwords located in the manag
 Passwords can either be added, which also uses byte conversion for encryption, or can be viewed
 in the terminal. Lastly, users can clsoe the manager by quiting. 
 
-I added comments throughout explainging what each line of code does in respect to the 
-encryption module used. Very happy with the result and hope you enjoy! :)
